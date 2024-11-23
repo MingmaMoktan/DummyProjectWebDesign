@@ -1,0 +1,8 @@
+@media screen and (max-width: 507px) {
+    .column {
+        width: 100% !important;
+    }
+     #main-section img {
+        width: 60%;
+     }
+}
